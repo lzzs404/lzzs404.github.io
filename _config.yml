@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yang Xu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -73,7 +73,7 @@ social:
 
 # Site Author
 author:
-  name             : "杨旭"
+  name             : "Yang Xu"
   avatar           : "zipai.png"
   bio              : "一个求职的大学生"
   location         : "Location"
