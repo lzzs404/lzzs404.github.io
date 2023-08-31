@@ -11,7 +11,7 @@ redirect_from:
 I'm a third year undergraduate student from [School of EECS](https:leecs.,pKku.edu.cn/). [Pelking University](https:l/www.pku.edu.cn).My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 I am very fortunate to be advised by [Prof.XXX](https:/lwww.XXX.coml) of XXX Lab from [School of Computer Science](https:/cs.pku.edu.cn/), Peking University. l was advised by[Prof.XX](https:lXXX.pKu.edu.cnl/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 You can find my Cv here: [Xx's Curriculum Vitae](..l/assets/Curriculum_Vitae.pdf).
-[Email(mailto:XX@stu.pku.edu.cn)/[Github](https:lgithub.com/QiuDi233)/[Wechat](..imageslwechat.jpg)/ [CSDN](https://blog.csdn.netlqd1813100174?spm=1000.2115.3001.5343)
+[Email(mailto:XX@stu.pku.edu.cn)/[Github](https:lgithub.com/QiuDi233)/[Wechat](..images/wechat.jpg)/ [CSDN](https://blog.csdn.netlqd1813100174?spm=1000.2115.3001.5343)
 
 For more info
 ------
