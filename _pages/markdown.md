@@ -7,11 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-姓名
-刘柏
+姓名:杨旭
 
-性别
-男
+性别:男
 
 出生日期
 24 Jan 2002
