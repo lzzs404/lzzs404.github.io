@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [石家庄铁道大学](https://wwww.stdu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+我是[石家庄铁道大学](https://wwww.stdu.edu.cn/)的一名大四学生。
+我抽象思维能力较强，肯动脑，善思考，不愿动手，生活中喜欢与人交往、不断结交新的朋友、善言谈、愿意教导别人。
+工作上尊重权威和规章制度，喜欢按计划办事，细心、有条理，习惯接受他人的指挥和领导，必要时也能领导他人。
+一般喜欢关注实际和细节情况，通常较为谨慎和保守，缺乏创造性，不喜欢冒险和竞争。
+生活中我喜欢篮球，乒乓球等球类运动。
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+[lzzs's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-You can find my CV here: [lzzs's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:1239552699@qq.com) / [Github](https://github.com/lzzs404) / [Wechat](../images/wechat.jpg) 
+[Github](https://github.com/lzzs404) / [Wechat](../images/wechat.jpg) 
 
 For more info
 ------
