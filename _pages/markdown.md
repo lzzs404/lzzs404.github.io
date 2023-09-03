@@ -1,30 +1,30 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "个人简历"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-姓名:杨旭
+姓名
+杨旭
 
-性别:男
+性别
+男
 
 出生日期
-24 Jan 2002
+2001/04/14
 
 手机
-1566591XXXX
+1995509####
 
-E-MAIL
-&#x35;&#55;&#55;&#50;&#x37;&#55;&#x33;&#51;&#x31;&#64;&#x71;&#113;&#x2e;&#x63;&#111;&#109;
 
 现居地
 石家庄铁道大学
 
 英语
-CET-6
+CET-4
 
 博客园
 个人博客
@@ -39,16 +39,3 @@ CET-6
 具备较强的学习能力，善于思考问题，具备团队合作精神。
 可以通过Java和Php语言利用MVC框架独自编写具有增删改查功能的管理系统，会通过Html+ajax或者Jsp+Servlet编写前后端交互
 熟悉Linux常用命令
-熟悉SQ ...</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/2023/09/02/hello-world/" title="Hello World">Hello World</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2023-09-02T08:23:39.563Z" title="发表于 2023-09-02 16:23:39">2023-09-02</time></span></div><div class="content">Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
-Quick StartCreate a new post1$ hexo new &quot;My New Post&quot;
-
-More info: Writing
-Run server1$ hexo server
-
-More info: Server
-Generate static files1$ hexo generate
-
-More info: Generating
-Deploy to remote sites1$ hexo deploy
-
-This allows you to denote <var>variables</var>.
