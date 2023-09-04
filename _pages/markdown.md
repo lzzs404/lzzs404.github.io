@@ -27,7 +27,7 @@ redirect_from:
 CET-4
 
 博客园
-个人博客
+[个人博客](https://www.cnblogs.com/yx111/)
 
 
 职业技能
